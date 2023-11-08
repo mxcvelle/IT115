@@ -1,0 +1,11 @@
+{
+    "name": "Michelle Nguyen",
+    "age": 30,
+    "city": "New York,NY",
+    "interests": [
+        "Monte1",
+        "Monte2",
+        "Monte3"
+    ],
+    "is_student": true
+}

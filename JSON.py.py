@@ -1,3 +1,4 @@
+#
 import json
 
 
@@ -7,7 +8,7 @@ import json
 data = {
 
     'name': 'Michelle Nguyen',
-    'age':,
+    'age': 30,
     'city':'Mountlake Terrace, WA',
     'interests': ['graphic novels','video games','working out'],
     'is_student': True
