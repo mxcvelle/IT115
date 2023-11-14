@@ -1,11 +1,12 @@
 {
     "name": "Michelle Nguyen",
-    "age": 30,
-    "city": "New York,NY",
+    "age": 29,
+    "city": "Mountlake Terrace, WA",
     "interests": [
-        "Monte1",
-        "Monte2",
-        "Monte3"
+        "graphic novels",
+        "video games",
+        "working out",
+        "traveling"
     ],
     "is_student": true
 }
